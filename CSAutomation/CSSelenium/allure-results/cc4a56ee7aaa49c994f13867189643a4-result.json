@@ -1,0 +1,97 @@
+{
+  "uuid": "f5e2a5f1-8b96-4288-9a03-7a71325aeeea",
+  "historyId": "8afe8801e708a2251f63804e343f338e",
+  "testCaseId": "a6fc5754b924ed7a84a0caa8803d4a4a",
+  "fullName": "CSSelenium:CSSelenium.Exercises.Exercise_Actions.Test05_ScrollPage1()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-0M9S2NR"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "CSSelenium.Exercises"
+    },
+    {
+      "name": "testMethod",
+      "value": "Test05_ScrollPage1"
+    },
+    {
+      "name": "testClass",
+      "value": "Exercise_Actions"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "owner",
+      "value": "I'm Owner"
+    },
+    {
+      "name": "tag",
+      "value": "Actions"
+    }
+  ],
+  "links": [
+    {
+      "name": "Issue #5",
+      "url": "Issue #5",
+      "type": "issue"
+    },
+    {
+      "name": "Teams",
+      "url": "Teams",
+      "type": "tms"
+    }
+  ],
+  "name": "Test05_ScrollPage1",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Test05_ScrollPage1"
+  },
+  "stage": "finished",
+  "description": "Sanity Actions!\n",
+  "steps": [
+    {
+      "name": "Test ScrollPage1",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1706970615966,
+      "stop": 1706970620042
+    }
+  ],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "d28f4592-fba1-4f73-b37e-e74e9369070b-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1706970615965,
+  "stop": 1706970620042
+}

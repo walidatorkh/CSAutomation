@@ -1,0 +1,97 @@
+{
+  "uuid": "8414f773-22fc-4a76-a863-7f6da3245b1e",
+  "historyId": "2ff61d67c6db4a5e74b6d4787b4d3a66",
+  "testCaseId": "d0f8e77ad51de44921e53f8cfb976202",
+  "fullName": "CSSelenium:CSSelenium.Exercises.Exercise_Actions.Test03_DoubleClick()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-0M9S2NR"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "CSSelenium.Exercises"
+    },
+    {
+      "name": "testMethod",
+      "value": "Test03_DoubleClick"
+    },
+    {
+      "name": "testClass",
+      "value": "Exercise_Actions"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "owner",
+      "value": "I'm Owner"
+    },
+    {
+      "name": "tag",
+      "value": "Actions"
+    }
+  ],
+  "links": [
+    {
+      "name": "Issue #3",
+      "url": "Issue #3",
+      "type": "issue"
+    },
+    {
+      "name": "Teams",
+      "url": "Teams",
+      "type": "tms"
+    }
+  ],
+  "name": "Test03_DoubleClick",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Test03_DoubleClick"
+  },
+  "stage": "finished",
+  "description": "Sanity Actions!\n",
+  "steps": [
+    {
+      "name": "Test DoubleClick",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1706971458527,
+      "stop": 1706971459872
+    }
+  ],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "8f5b45ed-86f1-4a94-9628-9abfa7eda41d-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1706971458526,
+  "stop": 1706971459873
+}

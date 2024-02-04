@@ -1,0 +1,97 @@
+{
+  "uuid": "95735c2a-e395-4e6a-8011-41b60328f46b",
+  "historyId": "bd55dc33d6d6ae3109b190192fbf575c",
+  "testCaseId": "69cc3f42df020922d632c056c9df5125",
+  "fullName": "CSSelenium:CSSelenium.Exercises.Exercise_Actions.Test06_ScrollPage2()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-0M9S2NR"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "CSSelenium.Exercises"
+    },
+    {
+      "name": "testMethod",
+      "value": "Test06_ScrollPage2"
+    },
+    {
+      "name": "testClass",
+      "value": "Exercise_Actions"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "owner",
+      "value": "I'm Owner"
+    },
+    {
+      "name": "tag",
+      "value": "Actions"
+    }
+  ],
+  "links": [
+    {
+      "name": "Issue #6",
+      "url": "Issue #6",
+      "type": "issue"
+    },
+    {
+      "name": "Teams",
+      "url": "Teams",
+      "type": "tms"
+    }
+  ],
+  "name": "Test06_ScrollPage2",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Test06_ScrollPage2"
+  },
+  "stage": "finished",
+  "description": "Sanity Actions!\n",
+  "steps": [
+    {
+      "name": "Test ScrollPage2",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1706971465268,
+      "stop": 1706971468304
+    }
+  ],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "bc4fb55e-e117-419b-9c50-08d86755bbe0-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1706971465268,
+  "stop": 1706971468305
+}

@@ -1,0 +1,97 @@
+{
+  "uuid": "b1582b4b-0363-49cc-a4cc-16c486e2c4ea",
+  "historyId": "bd55dc33d6d6ae3109b190192fbf575c",
+  "testCaseId": "69cc3f42df020922d632c056c9df5125",
+  "fullName": "CSSelenium:CSSelenium.Exercises.Exercise_Actions.Test06_ScrollPage2()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-0M9S2NR"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "CSSelenium.Exercises"
+    },
+    {
+      "name": "testMethod",
+      "value": "Test06_ScrollPage2"
+    },
+    {
+      "name": "testClass",
+      "value": "Exercise_Actions"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "owner",
+      "value": "I'm Owner"
+    },
+    {
+      "name": "tag",
+      "value": "Actions"
+    }
+  ],
+  "links": [
+    {
+      "name": "Issue #6",
+      "url": "Issue #6",
+      "type": "issue"
+    },
+    {
+      "name": "Teams",
+      "url": "Teams",
+      "type": "tms"
+    }
+  ],
+  "name": "Test06_ScrollPage2",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Test06_ScrollPage2"
+  },
+  "stage": "finished",
+  "description": "Sanity Actions!\n",
+  "steps": [
+    {
+      "name": "Test ScrollPage2",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1706970620043,
+      "stop": 1706970623086
+    }
+  ],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "3997ff07-bebb-477d-9fa6-7a7ac3bc73e7-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1706970620043,
+  "stop": 1706970623087
+}

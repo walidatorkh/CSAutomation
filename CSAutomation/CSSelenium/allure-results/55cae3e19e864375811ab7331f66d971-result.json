@@ -1,0 +1,97 @@
+{
+  "uuid": "cd27dbd7-62b8-477c-8457-c50b983d2060",
+  "historyId": "8ea43dafcd883dc134cd9c921b7164b5",
+  "testCaseId": "742e2f30dcf98cbc265e500a8b8896b7",
+  "fullName": "CSSelenium:CSSelenium.Exercises.Exercise_Actions.Test04_MouseHover()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-0M9S2NR"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "CSSelenium.Exercises"
+    },
+    {
+      "name": "testMethod",
+      "value": "Test04_MouseHover"
+    },
+    {
+      "name": "testClass",
+      "value": "Exercise_Actions"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "owner",
+      "value": "I'm Owner"
+    },
+    {
+      "name": "tag",
+      "value": "Actions"
+    }
+  ],
+  "links": [
+    {
+      "name": "Issue #4",
+      "url": "Issue #4",
+      "type": "issue"
+    },
+    {
+      "name": "Teams",
+      "url": "Teams",
+      "type": "tms"
+    }
+  ],
+  "name": "Test04_MouseHover",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Test04_MouseHover"
+  },
+  "stage": "finished",
+  "description": "Sanity Actions!\n",
+  "steps": [
+    {
+      "name": "Test MouseHover",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1706970614587,
+      "stop": 1706970615961
+    }
+  ],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "34ef44e8-e4d6-499b-8bf2-7ed7a54173fc-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1706970614587,
+  "stop": 1706970615961
+}

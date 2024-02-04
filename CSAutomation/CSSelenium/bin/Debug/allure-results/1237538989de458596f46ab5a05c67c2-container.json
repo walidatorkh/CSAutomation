@@ -1,0 +1,12 @@
+{
+  "uuid": "86262247-e680-409e-b952-c2e298814251",
+  "name": "CSSelenium.Exercises.Exercise_Actions.Test02_SelectElements",
+  "children": [
+    "62560230-0898-4469-96e1-c7ae42ae0fea"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1706964914262,
+  "stop": 1706964930887
+}

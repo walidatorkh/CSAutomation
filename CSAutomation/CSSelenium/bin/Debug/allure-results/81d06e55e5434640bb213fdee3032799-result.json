@@ -1,0 +1,97 @@
+{
+  "uuid": "62560230-0898-4469-96e1-c7ae42ae0fea",
+  "historyId": "2c114d6f8bf5306b148f94725643b7a1",
+  "testCaseId": "6337b95274ccd641746917b30bd5e14c",
+  "fullName": "CSSelenium:CSSelenium.Exercises.Exercise_Actions.Test02_SelectElements()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-0M9S2NR"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "CSSelenium.Exercises"
+    },
+    {
+      "name": "testMethod",
+      "value": "Test02_SelectElements"
+    },
+    {
+      "name": "testClass",
+      "value": "Exercise_Actions"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "owner",
+      "value": "I'm Owner"
+    },
+    {
+      "name": "subSuite",
+      "value": "Sub Suite"
+    }
+  ],
+  "links": [
+    {
+      "name": "Issue #2",
+      "url": "Issue #2",
+      "type": "issue"
+    },
+    {
+      "name": "Teams",
+      "url": "Teams",
+      "type": "tms"
+    }
+  ],
+  "name": "Test02_SelectElements",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Test02_SelectElements"
+  },
+  "stage": "finished",
+  "description": "Sanity Actions!\n",
+  "steps": [
+    {
+      "name": "Test SelectElements",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1706964914263,
+      "stop": 1706964930885
+    }
+  ],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "f49fd383-379b-4b47-ae69-3883d9a12576-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1706964914262,
+  "stop": 1706964930886
+}

@@ -1,0 +1,12 @@
+{
+  "uuid": "82be58ac-e014-408e-8544-e8a009ca018c",
+  "name": "CSSelenium.Exercises.Exercise_Actions.Test06_ScrollPage2",
+  "children": [
+    "64f93ac3-e76d-470b-8c99-26d0228efd08"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1706970249897,
+  "stop": 1706970252949
+}

@@ -1,0 +1,12 @@
+{
+  "uuid": "7149b31a-c9e1-4fcd-85b2-a411572b63a5",
+  "name": "CSSelenium.Exercises.Exercise_Actions.Test03_DoubleClick",
+  "children": [
+    "195a49c7-173f-449a-b33c-f998910d96be"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1706970613238,
+  "stop": 1706970614587
+}

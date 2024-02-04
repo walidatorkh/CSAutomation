@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSSelenium", "CSSelenium\CSSelenium.csproj", "{0EE093EF-DB9B-4570-A931-88D77D6DBB27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalProject", "FinalProject\FinalProject.csproj", "{18225BBD-20B2-4645-8C87-5D9A0F406A41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EE093EF-DB9B-4570-A931-88D77D6DBB27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE093EF-DB9B-4570-A931-88D77D6DBB27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE093EF-DB9B-4570-A931-88D77D6DBB27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE093EF-DB9B-4570-A931-88D77D6DBB27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18225BBD-20B2-4645-8C87-5D9A0F406A41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18225BBD-20B2-4645-8C87-5D9A0F406A41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18225BBD-20B2-4645-8C87-5D9A0F406A41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18225BBD-20B2-4645-8C87-5D9A0F406A41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4561B04C-AA6D-4EA1-9407-1B407D418146}
+	EndGlobalSection
+EndGlobal

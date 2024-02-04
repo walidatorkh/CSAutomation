@@ -1,0 +1,12 @@
+{
+  "uuid": "48e6107d-8fe9-46b8-86d2-ead23a63978c",
+  "name": "CSSelenium.Exercises.Exercise_Actions.Test07_NegativeTest",
+  "children": [
+    "92b330e8-b888-4845-9303-ad5576ad1e49"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1706970748028,
+  "stop": 1706970751160
+}

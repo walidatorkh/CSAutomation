@@ -1,0 +1,97 @@
+{
+  "uuid": "63f3acb4-234f-425f-a7fb-ea83e4990090",
+  "historyId": "2c114d6f8bf5306b148f94725643b7a1",
+  "testCaseId": "6337b95274ccd641746917b30bd5e14c",
+  "fullName": "CSSelenium:CSSelenium.Exercises.Exercise_Actions.Test02_SelectElements()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-0M9S2NR"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "CSSelenium.Exercises"
+    },
+    {
+      "name": "testMethod",
+      "value": "Test02_SelectElements"
+    },
+    {
+      "name": "testClass",
+      "value": "Exercise_Actions"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "owner",
+      "value": "I'm Owner"
+    },
+    {
+      "name": "tag",
+      "value": "Actions"
+    }
+  ],
+  "links": [
+    {
+      "name": "Issue #2",
+      "url": "Issue #2",
+      "type": "issue"
+    },
+    {
+      "name": "Teams",
+      "url": "Teams",
+      "type": "tms"
+    }
+  ],
+  "name": "Test02_SelectElements",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Test02_SelectElements"
+  },
+  "stage": "finished",
+  "description": "Sanity Actions!\n",
+  "steps": [
+    {
+      "name": "Test SelectElements",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1706971441916,
+      "stop": 1706971458519
+    }
+  ],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "14025252-b4c2-474f-a97a-fc1be0365f5d-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1706971441916,
+  "stop": 1706971458521
+}

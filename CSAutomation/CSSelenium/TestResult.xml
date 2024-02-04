@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="0" runstate="Runnable" testcasecount="82" result="Failed" total="7" passed="6" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="5" engine-version="3.17.0.0" clr-version="4.0.30319.42000" start-time="2024-02-03 14:43:56Z" end-time="2024-02-03 14:44:31Z" duration="35.263833">
+  <command-line><![CDATA[nunit3-console.exe  .\bin\Debug\CSSelenium.dll --where "cat == Actions"]]></command-line>
+  <filter>
+    <cat>Actions</cat>
+  </filter>
+  <test-suite type="Assembly" id="1-1114" name="CSSelenium.dll" fullname="C:\Automation\CSAutomation\CSAutomation\CSSelenium\bin\Debug\CSSelenium.dll" runstate="Runnable" testcasecount="82" result="Failed" site="Child" start-time="2024-02-03T14:43:56.7397948Z" end-time="2024-02-03T14:44:31.5482574Z" duration="34.807714" total="7" passed="6" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="5">
+    <environment framework-version="3.14.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 10.0.22621.0" platform="Win32NT" cwd="C:\Automation\CSAutomation\CSAutomation\CSSelenium" machine-name="DESKTOP-0M9S2NR" user="Lapa#" user-domain="DESKTOP-0M9S2NR" culture="en-US" uiculture="en-US" os-architecture="x64" />
+    <settings>
+      <setting name="DisposeRunners" value="True" />
+      <setting name="WorkDirectory" value="C:\Automation\CSAutomation\CSAutomation\CSSelenium" />
+      <setting name="ImageRuntimeVersion" value="4.0.30319" />
+      <setting name="ImageTargetFrameworkName" value=".NETFramework,Version=v4.7.2" />
+      <setting name="ImageRequiresX86" value="False" />
+      <setting name="ImageRequiresDefaultAppDomainAssemblyResolver" value="False" />
+      <setting name="TargetRuntimeFramework" value="net-4.7.2" />
+      <setting name="NumberOfTestWorkers" value="8" />
+    </settings>
+    <properties>
+      <property name="_PID" value="6536" />
+      <property name="_APPDOMAIN" value="domain-" />
+    </properties>
+    <failure>
+      <message><![CDATA[One or more child tests had errors]]></message>
+    </failure>
+    <test-suite type="TestSuite" id="1-1115" name="CSSelenium" fullname="CSSelenium" runstate="Runnable" testcasecount="82" result="Failed" site="Child" start-time="2024-02-03T14:43:56.7557177Z" end-time="2024-02-03T14:44:31.5482574Z" duration="34.792572" total="7" passed="6" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="5">
+      <properties />
+      <failure>
+        <message><![CDATA[One or more child tests had errors]]></message>
+      </failure>
+      <test-suite type="TestSuite" id="1-1116" name="Exercises" fullname="CSSelenium.Exercises" runstate="Runnable" testcasecount="35" result="Failed" site="Child" start-time="2024-02-03T14:43:56.7557177Z" end-time="2024-02-03T14:44:31.5482574Z" duration="34.792281" total="7" passed="6" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="5">
+        <properties />
+        <failure>
+          <message><![CDATA[One or more child tests had errors]]></message>
+        </failure>
+        <test-suite type="TestFixture" id="1-1011" name="Exercise_Actions" fullname="CSSelenium.Exercises.Exercise_Actions" classname="CSSelenium.Exercises.Exercise_Actions" runstate="Runnable" testcasecount="7" result="Failed" site="Child" start-time="2024-02-03T14:43:56.7573222Z" end-time="2024-02-03T14:44:31.5472606Z" duration="34.790329" total="7" passed="6" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="5">
+          <properties>
+            <property name="Category" value="Actions" />
+            <property name="AllureContext" value="AllureContext { Containers = [], Fixture = null, Test = null, Steps = [] }" />
+          </properties>
+          <failure>
+            <message><![CDATA[One or more child tests had errors]]></message>
+          </failure>
+          <test-case id="1-1012" name="Test01_FindDropped" fullname="CSSelenium.Exercises.Exercise_Actions.Test01_FindDropped" methodname="Test01_FindDropped" classname="CSSelenium.Exercises.Exercise_Actions" runstate="Runnable" seed="59929031" result="Passed" start-time="2024-02-03T14:43:58.7262561Z" end-time="2024-02-03T14:44:01.9147236Z" duration="3.187907" asserts="0">
+            <properties>
+              <property name="Description" value="Sanity Actions!" />
+              <property name="Category" value="Test01_FindDropped" />
+              <property name="AllureContext" value="AllureContext { Containers = [CSSelenium.Exercises.Exercise_Actions], Fixture = null, Test = null, Steps = [] }" />
+            </properties>
+            <output><![CDATA[Test passed
+]]></output>
+          </test-case>
+          <test-case id="1-1013" name="Test02_SelectElements" fullname="CSSelenium.Exercises.Exercise_Actions.Test02_SelectElements" methodname="Test02_SelectElements" classname="CSSelenium.Exercises.Exercise_Actions" runstate="Runnable" seed="2018484919" result="Passed" start-time="2024-02-03T14:44:01.9167210Z" end-time="2024-02-03T14:44:18.5257178Z" duration="16.609403" asserts="0">
+            <properties>
+              <property name="Description" value="Sanity Actions!" />
+              <property name="AllureContext" value="AllureContext { Containers = [CSSelenium.Exercises.Exercise_Actions], Fixture = null, Test = null, Steps = [] }" />
+            </properties>
+            <output><![CDATA[Test passed
+]]></output>
+          </test-case>
+          <test-case id="1-1014" name="Test03_DoubleClick" fullname="CSSelenium.Exercises.Exercise_Actions.Test03_DoubleClick" methodname="Test03_DoubleClick" classname="CSSelenium.Exercises.Exercise_Actions" runstate="Runnable" seed="620079126" result="Passed" start-time="2024-02-03T14:44:18.5257178Z" end-time="2024-02-03T14:44:19.8750511Z" duration="1.348539" asserts="1">
+            <properties>
+              <property name="Description" value="Sanity Actions!" />
+              <property name="AllureContext" value="AllureContext { Containers = [CSSelenium.Exercises.Exercise_Actions], Fixture = null, Test = null, Steps = [] }" />
+            </properties>
+            <output><![CDATA[Test passed
+]]></output>
+          </test-case>
+          <test-case id="1-1015" name="Test04_MouseHover" fullname="CSSelenium.Exercises.Exercise_Actions.Test04_MouseHover" methodname="Test04_MouseHover" classname="CSSelenium.Exercises.Exercise_Actions" runstate="Runnable" seed="1359802578" result="Passed" start-time="2024-02-03T14:44:19.8750511Z" end-time="2024-02-03T14:44:21.2270756Z" duration="1.352741" asserts="1">
+            <properties>
+              <property name="Description" value="Sanity Actions!" />
+              <property name="AllureContext" value="AllureContext { Containers = [CSSelenium.Exercises.Exercise_Actions], Fixture = null, Test = null, Steps = [] }" />
+            </properties>
+            <output><![CDATA[background-color: rgba(0, 0, 0, 0)
+background-color: rgba(255, 255, 0, 0.773)
+Test passed
+]]></output>
+          </test-case>
+          <test-case id="1-1016" name="Test05_ScrollPage1" fullname="CSSelenium.Exercises.Exercise_Actions.Test05_ScrollPage1" methodname="Test05_ScrollPage1" classname="CSSelenium.Exercises.Exercise_Actions" runstate="Runnable" seed="2012036617" result="Passed" start-time="2024-02-03T14:44:21.2270756Z" end-time="2024-02-03T14:44:25.2671858Z" duration="4.040511" asserts="1">
+            <properties>
+              <property name="Description" value="Sanity Actions!" />
+              <property name="AllureContext" value="AllureContext { Containers = [CSSelenium.Exercises.Exercise_Actions], Fixture = null, Test = null, Steps = [] }" />
+            </properties>
+            <output><![CDATA[Test passed
+]]></output>
+          </test-case>
+          <test-case id="1-1017" name="Test06_ScrollPage2" fullname="CSSelenium.Exercises.Exercise_Actions.Test06_ScrollPage2" methodname="Test06_ScrollPage2" classname="CSSelenium.Exercises.Exercise_Actions" runstate="Runnable" seed="1990065122" result="Passed" start-time="2024-02-03T14:44:25.2671858Z" end-time="2024-02-03T14:44:28.3052987Z" duration="3.038185" asserts="1">
+            <properties>
+              <property name="Description" value="Sanity Actions!" />
+              <property name="AllureContext" value="AllureContext { Containers = [CSSelenium.Exercises.Exercise_Actions], Fixture = null, Test = null, Steps = [] }" />
+            </properties>
+            <output><![CDATA[Test passed
+]]></output>
+          </test-case>
+          <test-case id="1-1018" name="Test07_NegativeTest" fullname="CSSelenium.Exercises.Exercise_Actions.Test07_NegativeTest" methodname="Test07_NegativeTest" classname="CSSelenium.Exercises.Exercise_Actions" runstate="Runnable" seed="830562970" result="Failed" label="Error" start-time="2024-02-03T14:44:28.3052987Z" end-time="2024-02-03T14:44:31.3953863Z" duration="3.089795" asserts="1">
+            <properties>
+              <property name="Description" value="Sanity_Actions" />
+              <property name="Category" value="ActionsNegative" />
+              <property name="AllureContext" value="AllureContext { Containers = [CSSelenium.Exercises.Exercise_Actions], Fixture = null, Test = null, Steps = [] }" />
+            </properties>
+            <failure>
+              <message><![CDATA[System.Reflection.TargetInvocationException : Exception has been thrown by the target of an invocation.
+  ----> NUnit.Framework.AssertionException : Multiple failures or warnings in test:
+  1)   Expected string length 38 but was 35. Strings differ at index 35.
+  Expected: "This Element is Shown When Scrolled!!!"
+  But was:  "This Element is Shown When Scrolled"
+  ----------------------------------------------^
+
+  2) Assert.Fail details in:   Expected string length 38 but was 35. Strings differ at index 35.
+  Expected: "This Element is Shown When Scrolled!!!"
+  But was:  "This Element is Shown When Scrolled"
+  ----------------------------------------------^
+
+
+
+Multiple failures or warnings in test:
+  1)   Expected string length 38 but was 35. Strings differ at index 35.
+  Expected: "This Element is Shown When Scrolled!!!"
+  But was:  "This Element is Shown When Scrolled"
+  ----------------------------------------------^
+
+  2) Assert.Fail details in:   Expected string length 38 but was 35. Strings differ at index 35.
+  Expected: "This Element is Shown When Scrolled!!!"
+  But was:  "This Element is Shown When Scrolled"
+  ----------------------------------------------^
+
+]]></message>
+              <stack-trace><![CDATA[   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Allure.Net.Commons.Steps.AllureStepAspectBase.Around(String name, Object[] args, Func`2 target, MethodBase metadata, Type returnType)
+   at CSSelenium.Exercises.Exercise_Actions.__a$_around_Test07_NegativeTest_100663344_w_0(Object[] )
+   at CSSelenium.Exercises.Exercise_Actions.Test07_NegativeTest()
+--AssertionException
+   at NUnit.Framework.Assert.ReportFailure(String message)
+   at NUnit.Framework.Assert.Fail(String message, Object[] args)
+   at NUnit.Framework.Assert.Fail(String message)
+   at CSSelenium.Exercises.Exercise_Actions.__a$_around_Test07_NegativeTest_100663344_o() in C:\Automation\CSAutomation\CSAutomation\CSSelenium\Exercises\Exercise_Actions.cs:line 304
+   at CSSelenium.Exercises.Exercise_Actions.__a$_around_Test07_NegativeTest_100663344_u(Object[] )
+   at Allure.Net.Commons.Steps.AllureAbstractStepAspect.WrapSyncVoid(Func`2 target, Object[] args, MethodBase metadata, String stepName, List`1 stepParameters)]]></stack-trace>
+            </failure>
+            <output><![CDATA[Test failed, details in:   Expected string length 38 but was 35. Strings differ at index 35.
+  Expected: "This Element is Shown When Scrolled!!!"
+  But was:  "This Element is Shown When Scrolled"
+  ----------------------------------------------^
+
+]]></output>
+            <assertions>
+              <assertion result="Failed">
+                <message><![CDATA[  Expected string length 38 but was 35. Strings differ at index 35.
+  Expected: "This Element is Shown When Scrolled!!!"
+  But was:  "This Element is Shown When Scrolled"
+  ----------------------------------------------^
+]]></message>
+                <stack-trace><![CDATA[   at CSSelenium.Exercises.Exercise_Actions.__a$_around_Test07_NegativeTest_100663344_o() in C:\Automation\CSAutomation\CSAutomation\CSSelenium\Exercises\Exercise_Actions.cs:line 289
+   at CSSelenium.Exercises.Exercise_Actions.__a$_around_Test07_NegativeTest_100663344_u(Object[] )
+   at Allure.Net.Commons.Steps.AllureAbstractStepAspect.WrapSyncVoid(Func`2 target, Object[] args, MethodBase metadata, String stepName, List`1 stepParameters)
+]]></stack-trace>
+              </assertion>
+              <assertion result="Failed">
+                <message><![CDATA[Assert.Fail details in:   Expected string length 38 but was 35. Strings differ at index 35.
+  Expected: "This Element is Shown When Scrolled!!!"
+  But was:  "This Element is Shown When Scrolled"
+  ----------------------------------------------^
+]]></message>
+                <stack-trace><![CDATA[   at CSSelenium.Exercises.Exercise_Actions.__a$_around_Test07_NegativeTest_100663344_o() in C:\Automation\CSAutomation\CSAutomation\CSSelenium\Exercises\Exercise_Actions.cs:line 289
+   at CSSelenium.Exercises.Exercise_Actions.__a$_around_Test07_NegativeTest_100663344_u(Object[] )
+   at Allure.Net.Commons.Steps.AllureAbstractStepAspect.WrapSyncVoid(Func`2 target, Object[] args, MethodBase metadata, String stepName, List`1 stepParameters)
+]]></stack-trace>
+              </assertion>
+              <assertion result="Error">
+                <message><![CDATA[System.Reflection.TargetInvocationException : Exception has been thrown by the target of an invocation.
+  ----> NUnit.Framework.AssertionException : Multiple failures or warnings in test:
+  1)   Expected string length 38 but was 35. Strings differ at index 35.
+  Expected: "This Element is Shown When Scrolled!!!"
+  But was:  "This Element is Shown When Scrolled"
+  ----------------------------------------------^
+
+  2) Assert.Fail details in:   Expected string length 38 but was 35. Strings differ at index 35.
+  Expected: "This Element is Shown When Scrolled!!!"
+  But was:  "This Element is Shown When Scrolled"
+  ----------------------------------------------^
+
+]]></message>
+                <stack-trace><![CDATA[   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Allure.Net.Commons.Steps.AllureStepAspectBase.Around(String name, Object[] args, Func`2 target, MethodBase metadata, Type returnType)
+   at CSSelenium.Exercises.Exercise_Actions.__a$_around_Test07_NegativeTest_100663344_w_0(Object[] )
+   at CSSelenium.Exercises.Exercise_Actions.Test07_NegativeTest()
+--AssertionException
+   at NUnit.Framework.Assert.ReportFailure(String message)
+   at NUnit.Framework.Assert.Fail(String message, Object[] args)
+   at NUnit.Framework.Assert.Fail(String message)
+   at CSSelenium.Exercises.Exercise_Actions.__a$_around_Test07_NegativeTest_100663344_o() in C:\Automation\CSAutomation\CSAutomation\CSSelenium\Exercises\Exercise_Actions.cs:line 304
+   at CSSelenium.Exercises.Exercise_Actions.__a$_around_Test07_NegativeTest_100663344_u(Object[] )
+   at Allure.Net.Commons.Steps.AllureAbstractStepAspect.WrapSyncVoid(Func`2 target, Object[] args, MethodBase metadata, String stepName, List`1 stepParameters)]]></stack-trace>
+              </assertion>
+            </assertions>
+          </test-case>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

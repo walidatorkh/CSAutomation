@@ -1,0 +1,115 @@
+{
+  "uuid": "cf2f9ddd-a051-4265-9a01-8ea786d78d50",
+  "historyId": "0719f6c9d6eba947e96ac859d506c15f",
+  "testCaseId": "0b4f9a303ae127e0af2accc9ceda138e",
+  "fullName": "CSSelenium:CSSelenium.Exercises.Exercise_Actions.Test07_NegativeTest()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-0M9S2NR"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "CSSelenium.Exercises"
+    },
+    {
+      "name": "testMethod",
+      "value": "Test07_NegativeTest"
+    },
+    {
+      "name": "testClass",
+      "value": "Exercise_Actions"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "owner",
+      "value": "I'm Owner"
+    },
+    {
+      "name": "tag",
+      "value": "ActionsNegative"
+    },
+    {
+      "name": "tag",
+      "value": "Actions"
+    }
+  ],
+  "links": [
+    {
+      "name": "Issue #7",
+      "url": "Issue #7",
+      "type": "issue"
+    },
+    {
+      "name": "Teams",
+      "url": "Teams",
+      "type": "tms"
+    }
+  ],
+  "name": "Test07_NegativeTest",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "System.Reflection.TargetInvocationException : Exception has been thrown by the target of an invocation.\r\n  ----> NUnit.Framework.AssertionException : Multiple failures or warnings in test:\r\n  1)   Expected string length 38 but was 35. Strings differ at index 35.\r\n  Expected: \"This Element is Shown When Scrolled!!!\"\r\n  But was:  \"This Element is Shown When Scrolled\"\r\n  ----------------------------------------------^\r\n\r\n  2) Assert.Fail details in:   Expected string length 38 but was 35. Strings differ at index 35.\r\n  Expected: \"This Element is Shown When Scrolled!!!\"\r\n  But was:  \"This Element is Shown When Scrolled\"\r\n  ----------------------------------------------^\r\n\r\n\r\n\r\nMultiple failures or warnings in test:\r\n  1)   Expected string length 38 but was 35. Strings differ at index 35.\r\n  Expected: \"This Element is Shown When Scrolled!!!\"\r\n  But was:  \"This Element is Shown When Scrolled\"\r\n  ----------------------------------------------^\r\n\r\n  2) Assert.Fail details in:   Expected string length 38 but was 35. Strings differ at index 35.\r\n  Expected: \"This Element is Shown When Scrolled!!!\"\r\n  But was:  \"This Element is Shown When Scrolled\"\r\n  ----------------------------------------------^\r\n\r\n",
+    "trace": "   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)\r\n   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)\r\n   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)\r\n   at Allure.Net.Commons.Steps.AllureStepAspectBase.Around(String name, Object[] args, Func`2 target, MethodBase metadata, Type returnType)\r\n   at CSSelenium.Exercises.Exercise_Actions.__a$_around_Test07_NegativeTest_100663344_w_0(Object[] )\r\n   at CSSelenium.Exercises.Exercise_Actions.Test07_NegativeTest()\r\n--AssertionException\r\n   at NUnit.Framework.Assert.ReportFailure(String message)\r\n   at NUnit.Framework.Assert.Fail(String message, Object[] args)\r\n   at NUnit.Framework.Assert.Fail(String message)\r\n   at CSSelenium.Exercises.Exercise_Actions.__a$_around_Test07_NegativeTest_100663344_o() in C:\\Automation\\CSAutomation\\CSAutomation\\CSSelenium\\Exercises\\Exercise_Actions.cs:line 304\r\n   at CSSelenium.Exercises.Exercise_Actions.__a$_around_Test07_NegativeTest_100663344_u(Object[] )\r\n   at Allure.Net.Commons.Steps.AllureAbstractStepAspect.WrapSyncVoid(Func`2 target, Object[] args, MethodBase metadata, String stepName, List`1 stepParameters)"
+  },
+  "stage": "finished",
+  "description": "Sanity_Actions\n",
+  "steps": [
+    {
+      "name": "Test Negative ScrollPage2",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "Multiple failures or warnings in test:\r\n  1)   Expected string length 38 but was 35. Strings differ at index 35.\r\n  Expected: \"This Element is Shown When Scrolled!!!\"\r\n  But was:  \"This Element is Shown When Scrolled\"\r\n  ----------------------------------------------^\r\n\r\n  2) Assert.Fail details in:   Expected string length 38 but was 35. Strings differ at index 35.\r\n  Expected: \"This Element is Shown When Scrolled!!!\"\r\n  But was:  \"This Element is Shown When Scrolled\"\r\n  ----------------------------------------------^\r\n\r\n",
+        "trace": "   at NUnit.Framework.Assert.ReportFailure(String message)\r\n   at NUnit.Framework.Assert.Fail(String message, Object[] args)\r\n   at NUnit.Framework.Assert.Fail(String message)\r\n   at CSSelenium.Exercises.Exercise_Actions.__a$_around_Test07_NegativeTest_100663344_o() in C:\\Automation\\CSAutomation\\CSAutomation\\CSSelenium\\Exercises\\Exercise_Actions.cs:line 304\r\n   at CSSelenium.Exercises.Exercise_Actions.__a$_around_Test07_NegativeTest_100663344_u(Object[] )\r\n   at Allure.Net.Commons.Steps.AllureAbstractStepAspect.WrapSyncVoid(Func`2 target, Object[] args, MethodBase metadata, String stepName, List`1 stepParameters)"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [
+        {
+          "name": "Finding scrolled_element",
+          "value": "2/3/2024 4:42:20 PM",
+          "excluded": false
+        },
+        {
+          "name": "Executed scrolling",
+          "value": "2/3/2024 4:42:23 PM",
+          "excluded": false
+        }
+      ],
+      "start": 1706971340229,
+      "stop": 1706971343364
+    }
+  ],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "2f00789f-209d-476a-a9b8-9d49034c8e1d-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1706971340135,
+  "stop": 1706971343377
+}

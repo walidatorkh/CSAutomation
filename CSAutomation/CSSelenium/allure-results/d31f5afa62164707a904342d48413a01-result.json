@@ -1,0 +1,126 @@
+{
+  "uuid": "46435d1c-f481-4745-978a-d9a812a56420",
+  "historyId": "8afc57ab4b4deecf0d242607197e81bc",
+  "testCaseId": "a9ee6a22d04ec9a79b619650d3e16ea6",
+  "fullName": "CSSelenium:CSSelenium.Exercises.Exercise_Actions.Test01_FindDropped()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-0M9S2NR"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "CSSelenium.Exercises"
+    },
+    {
+      "name": "testMethod",
+      "value": "Test01_FindDropped"
+    },
+    {
+      "name": "testClass",
+      "value": "Exercise_Actions"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "owner",
+      "value": "I'm Owner"
+    },
+    {
+      "name": "subSuite",
+      "value": "Sub Suite"
+    },
+    {
+      "name": "tag",
+      "value": "Test01_FindDropped"
+    },
+    {
+      "name": "tag",
+      "value": "Actions"
+    }
+  ],
+  "links": [
+    {
+      "name": "Issue #1",
+      "url": "Issue #1",
+      "type": "issue"
+    },
+    {
+      "name": "Teams",
+      "url": "Teams",
+      "type": "tms"
+    }
+  ],
+  "name": "Test01_FindDropped",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Test01_FindDropped"
+  },
+  "stage": "finished",
+  "description": "Sanity Actions!\n",
+  "steps": [
+    {
+      "name": "Test FindDropped",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [
+        {
+          "name": "Perform step drag and drop",
+          "value": "2/3/2024 4:31:59 PM",
+          "excluded": false
+        },
+        {
+          "name": "Step drag and drop done",
+          "value": "2/3/2024 4:32:00 PM",
+          "excluded": false
+        },
+        {
+          "name": "Wait to find elements",
+          "value": "2/3/2024 4:32:01 PM",
+          "excluded": false
+        },
+        {
+          "name": "Element found and equals to Dropped!",
+          "value": "2/3/2024 4:32:01 PM",
+          "excluded": false
+        }
+      ],
+      "start": 1706970718599,
+      "stop": 1706970721500
+    }
+  ],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "2878d5a7-0eec-4115-88a0-1daead4d755d-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1706970718502,
+  "stop": 1706970721513
+}

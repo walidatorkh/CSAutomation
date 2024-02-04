@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ENVIROMENT>
+	<BROWSER_TYPE>Chrome</BROWSER_TYPE>
+	<URL>https://demo.nopcommerce.com</URL>
+	<CURRENCY>Euro</CURRENCY>
+	<EXPECTED>€23.22</EXPECTED>
+	<TIME_OUT>5</TIME_OUT>
+	<REPORT_FILE_PATH>C:\Temp\Reports</REPORT_FILE_PATH>
+	<REPORT_FILE_NAME>\report.html</REPORT_FILE_NAME>
+</ENVIROMENT>

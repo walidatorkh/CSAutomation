@@ -1,0 +1,12 @@
+{
+  "uuid": "f0700d05-9cd3-4f9a-b2a3-7165c3f3db4f",
+  "name": "CSSelenium.Exercises.Exercise_Actions.Test01_FindDropped",
+  "children": [
+    "9b3d483f-6141-4d3e-b636-a63b7e6b9a28"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1706971438747,
+  "stop": 1706971441902
+}

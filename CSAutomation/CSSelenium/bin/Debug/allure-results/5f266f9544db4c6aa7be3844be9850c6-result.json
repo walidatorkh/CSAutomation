@@ -1,0 +1,97 @@
+{
+  "uuid": "488226c5-9061-4c5b-a4ac-4296d2b3da33",
+  "historyId": "8afe8801e708a2251f63804e343f338e",
+  "testCaseId": "a6fc5754b924ed7a84a0caa8803d4a4a",
+  "fullName": "CSSelenium:CSSelenium.Exercises.Exercise_Actions.Test05_ScrollPage1()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-0M9S2NR"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "CSSelenium.Exercises"
+    },
+    {
+      "name": "testMethod",
+      "value": "Test05_ScrollPage1"
+    },
+    {
+      "name": "testClass",
+      "value": "Exercise_Actions"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "owner",
+      "value": "I'm Owner"
+    },
+    {
+      "name": "subSuite",
+      "value": "Sub Suite"
+    }
+  ],
+  "links": [
+    {
+      "name": "Issue #5",
+      "url": "Issue #5",
+      "type": "issue"
+    },
+    {
+      "name": "Teams",
+      "url": "Teams",
+      "type": "tms"
+    }
+  ],
+  "name": "Test05_ScrollPage1",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Test05_ScrollPage1"
+  },
+  "stage": "finished",
+  "description": "Sanity Actions!\n",
+  "steps": [
+    {
+      "name": "Test ScrollPage1",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1706964933612,
+      "stop": 1706964937699
+    }
+  ],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "596ce454-3c38-46b9-9277-1c840a1eccde-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1706964933611,
+  "stop": 1706964937701
+}
