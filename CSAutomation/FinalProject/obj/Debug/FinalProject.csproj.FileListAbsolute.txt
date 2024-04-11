@@ -68,3 +68,4 @@ C:\Automation\CSAutomation\CSAutomation\FinalProject\bin\Debug\System.Collection
 C:\Automation\CSAutomation\CSAutomation\FinalProject\bin\Debug\System.Memory.dll
 C:\Automation\CSAutomation\CSAutomation\FinalProject\bin\Debug\System.Numerics.Vectors.dll
 C:\Automation\CSAutomation\CSAutomation\FinalProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Automation\CSAutomation\CSAutomation\FinalProject\bin\Debug\testcentric.engine.metadata.dll
