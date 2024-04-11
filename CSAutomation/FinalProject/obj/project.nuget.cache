@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "diZTv98H27h0ToQpsZ7qqcLXc58r3/8ja+T8Mmt8rXpfNvQykLBq0ZoVWRdE+Nsepm9APmvQHNc3hvDu7NEj7Q==",
+  "dgSpecHash": "Hb5Y2hjqDikTFvkFFMFwXF4kI2kF3TQJ6F0aWmq4zaVUxg3kRTRjbepmuLQLRwHRLPzXEEjllK8wjELTk0uGWw==",
   "success": true,
   "projectFilePath": "C:\\Automation\\CSAutomation\\CSAutomation\\FinalProject\\FinalProject.csproj",
   "expectedPackageFiles": [
@@ -20,7 +20,7 @@
     "C:\\Users\\Lapa#\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
     "C:\\Users\\Lapa#\\.nuget\\packages\\selenium.support\\3.141.0\\selenium.support.3.141.0.nupkg.sha512",
     "C:\\Users\\Lapa#\\.nuget\\packages\\selenium.webdriver\\3.141.0\\selenium.webdriver.3.141.0.nupkg.sha512",
-    "C:\\Users\\Lapa#\\.nuget\\packages\\selenium.webdriver.chromedriver\\121.0.6167.8500\\selenium.webdriver.chromedriver.121.0.6167.8500.nupkg.sha512",
+    "C:\\Users\\Lapa#\\.nuget\\packages\\selenium.webdriver.chromedriver\\123.0.6312.12200\\selenium.webdriver.chromedriver.123.0.6312.12200.nupkg.sha512",
     "C:\\Users\\Lapa#\\.nuget\\packages\\selenium.webdriver.geckodriver\\0.34.0\\selenium.webdriver.geckodriver.0.34.0.nupkg.sha512",
     "C:\\Users\\Lapa#\\.nuget\\packages\\selenium.webdriver.iedriver\\4.14.0\\selenium.webdriver.iedriver.4.14.0.nupkg.sha512",
     "C:\\Users\\Lapa#\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
